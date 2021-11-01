@@ -1,1 +1,1 @@
-# DualCapsuleGAN
+# SRAFL

@@ -1,6 +1,6 @@
 # scGNGI
 Sequential reinforcement active feature learning for gene signature identification in renal cell carcinoma
-![](https://github.com/linxi159/scGNGI/blob/main/figures/Figure_1_Final.jpg) 
+![](https://github.com/linxi159/scGNGI/figures/Figure_1_Final.jpg) 
 
 ## Description of each directory
 data: the preprocessed data from RCC in TCGA.

@@ -1,17 +1,17 @@
 # scGNGI
-Sequential reinforcement active feature learning for gene signature identification in renal cell carcinoma
-![](https://github.com/linxi159/scGNGI/figures/Figure_1_Final.jpg) 
+Missing value imputation with low-rank matrix completion in single-cell RNA-seq data by considering cell heterogeneity
+![](https://github.com/linxi159/scGNGI/blob/main/figures/Figure_1_Final.jpg) 
 
 ## Description of each directory
-data: the preprocessed data from RCC in TCGA.
+data: the preprocessed data from simulated and real scRNA-seq data in GEO.
 
-src: the implementation of Sequential reinforcement active feature learning.
+src: the implementation of missing value imputation with low-rank matrix completion
 
-R: the utility of data preprocessing, gene filtering, and plot of experimental result.
+R: the utility of data preprocessing, comparison with different methods, and plot of experimental result.
 
-results: the selected gene signature and different cases.
+results: the preprocessed results.
 
-figures: all plots for SRAFL.
+figures: all plots for scGNGI.
 
 
 ## How to setup
@@ -24,9 +24,8 @@ figures: all plots for SRAFL.
 
 * NVIDIA GPU + CUDA 11.50 + CuDNN v7.1
 
-* torch 0.8 or later
+* scipy
 
-* collections
 
 ## Quick example to use SRAFL
 ```

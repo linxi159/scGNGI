@@ -1,6 +1,6 @@
 # scGNGI
 Missing value imputation with low-rank matrix completion in single-cell RNA-seq data by considering cell heterogeneity
-![](https://github.com/linxi159/scGNGI/blob/main/figures/Figure_1_Final.jpg) 
+![](https://github.com/linxi159/scGNGI/blob/master/figures/Figure_1_Final.jpg) 
 
 ## Description of each directory
 data: the preprocessed data from simulated and real scRNA-seq data in GEO.
